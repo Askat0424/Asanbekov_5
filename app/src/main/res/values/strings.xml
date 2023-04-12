@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asanbekov_5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="try_again" />
+    <string name="result" />
+    <string name="_100" />
+    <string name="your_score" />
+    <string name="me" />
+    <string name="you" />
+    <string name="calculate" />
+    <string name="second_name" />
+    <string name="first_name" />
+    <string name="love_calculator" />
+</resources>
